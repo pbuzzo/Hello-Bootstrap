@@ -7,9 +7,19 @@ body {
 }
 
 #cover {
-    background: #222 url('img/stars.jpg') no-repeat;
+    background: #222 url('img/stars.jpg') center center no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
     text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-captiion {
+    width: 100%;
+}
+
+.banner_div {
+    margin: auto!important;
 }
