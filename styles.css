@@ -1,0 +1,15 @@
+/* styles.css */
+
+html,
+body {
+    height: 100%;
+    text-align: center;
+}
+
+#cover {
+    background: #222 url('img/stars.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+}
